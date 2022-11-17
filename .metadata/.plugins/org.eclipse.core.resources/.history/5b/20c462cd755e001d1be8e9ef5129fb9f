@@ -1,0 +1,25 @@
+package programacion1;
+
+import java.util.Scanner;
+
+public class ejercicio1Tema4 {
+
+	public static void main(String[] args) {
+	Scanner teclado= new Scanner(System.in);
+			String texto;
+			int  longitud;
+			do {
+			System.out.print("Escriba una frase de menos de 80 caracteres: ");
+			texto=teclado.nextLine();
+			longitud=texto.length();
+			}
+			while(longitud < 80);
+			for(int contador=0; contador<texto.length; contador++) 
+				
+			
+			
+				
+			
+			
+	}
+}

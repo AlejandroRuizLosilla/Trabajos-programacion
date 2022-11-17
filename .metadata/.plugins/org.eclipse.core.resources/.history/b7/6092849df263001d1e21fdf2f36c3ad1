@@ -1,0 +1,36 @@
+package programacion;
+
+import java.util.Scanner;
+
+public class EJERCICIO6 {
+	public static void main(String[] args) {
+		Scanner teclado= new Scanner(System.in);
+		int numeroImpar;
+		int numeroPar;
+		int contador;
+		int sumaPar;
+	    int sumaImpar;
+	    int lecturaImpar;
+	    sumaPar=sumaImpar=0;
+	    lecturaImpar= true;
+		System.out.print("INTRODUCE LOS NUMEROS PARES E IMPARES");
+		numeroPar
+		sumaPar=sumaImpar=0;
+		lecturaImpar=true;
+		mensaje
+		leo numero
+		while(numero!0)
+			si lecturaimpar
+				sumaImpar+=numero
+			si no
+				sumapar+-=numero
+				lecturaImpar= ! lecturaImpar
+		
+				mensaje
+				leo numero
+	
+	
+	
+	
+
+}

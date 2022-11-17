@@ -1,0 +1,23 @@
+package programacion;
+
+import java.util.Scanner;
+
+public class programa8 {
+
+	public static void main(String[] args) {
+	Scanner teclado= new Scanner(System.in);
+	double numero;
+	double producto=1;
+	System.out.print("Introduzca un numero mayor que 0 para saber su factorial");
+	numero=teclado.nextInt();
+	while(numero!=0) {
+		producto= producto*numero;numero--;
+		
+	}
+	System.out.print("su factorial es "+ producto);
+	
+	
+	
+	}
+
+}

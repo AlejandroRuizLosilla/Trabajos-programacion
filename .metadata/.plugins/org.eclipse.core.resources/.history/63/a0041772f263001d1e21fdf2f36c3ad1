@@ -1,0 +1,26 @@
+package programacion;
+
+import java.util.Scanner;
+
+public class ejercicio4tema4 {
+	public static void main(String[] args) {
+		Scanner teclado= new Scanner(System.in);
+		System.out.print("Escribe una frase con mayusculas para pasarlo a minusculas");
+		String texto=teclado.nextLine();
+		System.out.println("");
+		String resultado=texto.toLowerCase();
+		System.out.println(resultado);
+		
+		System.out.print("Escribe una frase con minusculas para pasarlo a mayusculas");
+		String texto1=teclado.nextLine();
+		System.out.println("");
+		String resultado1=texto1.toUpperCase();
+		System.out.println(resultado1);
+		
+		
+				
+		
+		
+		
+	}
+}

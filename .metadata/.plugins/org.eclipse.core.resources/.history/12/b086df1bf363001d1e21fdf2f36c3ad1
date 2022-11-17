@@ -1,0 +1,19 @@
+package programacion;
+
+import java.util.Scanner;
+
+public class PROBLEMA11 {
+		public static void main(String[] args) {
+			Scanner teclado= new Scanner(System.in);
+			leer numero
+			mensaje 1, 2 ,3 son primos+
+			//comprobar si primoExceso es primo
+			prueboPrimo= true
+			1 desde 2 hasta primoExceso-1// for( int i=2 ; i<primo Exceso;i++)
+			si primoExceso % i
+				prueboPrimo = false
+				
+			
+			
+			
+}

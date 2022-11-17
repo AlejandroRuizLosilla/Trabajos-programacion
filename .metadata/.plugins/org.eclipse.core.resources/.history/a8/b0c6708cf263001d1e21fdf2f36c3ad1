@@ -1,0 +1,24 @@
+package programacion;
+
+import java.util.Scanner;
+
+public class Ejercicio10 {
+	public static void main(String[] args) {
+		Scanner teclado= new Scanner(System.in);
+		int numero;
+		int esPrimo;
+		int primoExceso;
+	System.out.print("Introduce un numero para comprobar que es primo");	
+	numero=teclado.nextInt()	;
+	esPrimo= false;
+	primoExceso= numero + 1;
+	while(! esPrimo)
+		//comprobar si primoExceso es primo //for(int i =2; i<primoExceso; i++);{
+	
+		siprueboPrimo
+		si no
+				primoExceso = primoExceso+
+		}
+mensaje el primo por exceso es primoExceso
+	}
+}
